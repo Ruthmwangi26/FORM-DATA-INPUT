@@ -1,0 +1,49 @@
+
+
+
+body {
+    margin: 0;
+    border: 20px;
+    border-color: azure;
+    padding: 10%;
+    background-color: rgb(49, 6, 83);
+   font-family: ;
+
+}
+
+h3{
+    color: white;
+    font-size: 50px;
+
+}
+
+span{
+    background-color: black;
+   border: 5px solid white;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 100px;
+   font-size: 50px;
+    color: rgb(234, 234, 241);
+    width: 50px;
+}
+
+br{
+    
+    
+}
+
+button{
+    background-color: rgb(49, 6, 83);
+    color: white;
+    border-color: 5px white;
+    padding: 20px;
+    margin: 20px;
+
+    
+
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
